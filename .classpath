@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_CONTAINER"/>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_DEPENDENCIES_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/JAVAFX/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/MYSQL JDBC DRIVER/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/commons-jexl-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/derby-10.10.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/docx4j-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/itextpdf-5.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/itext-rtf-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/jaxb-xmldsig-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/jofc2-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/nextreports-engine-9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/poi-ooxml-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/poi-ooxml-schemas-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/winstone-lite-0.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/NEXT REPORTS 9.1/xstream-1.4.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/jackcess-2.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/ucanaccess-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Java Lab/Desktop/Eclipse Workspace/Micro Credit Manager/3rdPartyLibraries/U CAN ACCESS 4.0.1/ucanload.jar"/>
+	<classpathentry kind="lib" path="/Jesper Test/lib/com.jaspersoft.studio.bundles.bouncycastle_1.4.6.jar"/>
+	<classpathentry kind="lib" path="/Jesper Test/lib/com.jaspersoft.studio.bundles.commons-digester_2.1.0.201503161008.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
